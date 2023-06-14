@@ -1,6 +1,6 @@
 class Model {
     constructor(group) {
-        this.endpoint = `/assets/data/group_${group}.json`;
+        this.endpoint = `https://github.com/binkertpat/teacher_rallye_bvc/blob/main/assets/data/group_${group}.json`;
     }
 
     parse(controller) {
