@@ -1,19 +1,17 @@
-# framework for a digital oriented snippet hunt - specified for the BvC
+# Digital companion for a snippet hunt
 
 ## Usage
-edit files in the data directory, to add some questions with hints and solutions
+Edit files in the data folder to add groups, puzzles, clues and solutions.
 
-query following path on your device, depend on your group number
+Direct links for groups can be created using the group search parameter, specified with a group number.
 ```
 [url]?group=1
 ```
 
 ## ToDo
+- [ ] adding an end screen
+- [ ] some handling
 
-- final screen
-- some error managing
+## Licence
 
-## license
-
-lincensed under the 
-[BEER-WARE LICENSE](https://en.wikipedia.org/wiki/Beerware)
+Lincensed under the [BEER-WARE LICENSE](https://en.wikipedia.org/wiki/Beerware).
